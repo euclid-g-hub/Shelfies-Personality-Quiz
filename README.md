@@ -7,16 +7,8 @@ Current Link:
 Copyright &copy; 2025 Chelian Sandoval
 All Rights Reserved.
 
-<img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Bread.gif" width="100">
-<img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Cheese.gif" width="100">
-<img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Coffee.gif" width="100">
-<img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Egg.gif" width="100">
-<img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Milk.gif" width="100">
-<img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Rice.gif" width="100">
-<img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Salt.gif" width="100">
-<img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Soy_Sauce.gif" width="100">
-<img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Sugar.gif" width="100">
-<img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Tea_Bag.gif" width="100">
+<img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Bread.gif" width="100"><img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Cheese.gif" width="100"><img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Coffee.gif" width="100"><img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Egg.gif" width="100"><img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Milk.gif" width="100">
+<img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Rice.gif" width="100"><img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Salt.gif" width="100"><img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Soy_Sauce.gif" width="100"><img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Sugar.gif" width="100"><img src="https://github.com/euclid-g-hub/Shelfies-Personality-Quiz/blob/main/images/Roster/Tea_Bag.gif" width="100">
 
 Project Started: September, 2025
 Project Launched: October, 2025
