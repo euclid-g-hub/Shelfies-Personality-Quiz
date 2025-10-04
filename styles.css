@@ -294,3 +294,64 @@ footer p {
     width: 100%; /* Ensure the image fills its container */
     height: auto; /* Maintain aspect ratio */
 }
+
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; min-height: 100%; }
+
+/* Prevent accidental horizontal scroll on mobile */
+body { overflow-x: hidden; }
+
+/* Center the quiz and limit width on large screens; fluid on phones */
+.quiz-container { width: 100%; max-width: 920px; margin: 0 auto; padding: 12px; }
+
+/* Quiz & result containers should not exceed viewport on phones */
+#quiz, #result, .quiz-page, .start-page {
+  width: 100%;
+  max-width: 420px; /* comfortable reading width on phones */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Make all images responsive */
+img { max-width: 100%; height: auto; display: block; }
+
+/* Constrain the result image so it won't overflow vertically on small screens */
+#result img#result-image {
+  max-width: 100%;
+  max-height: 60vh;    /* keep result visible without huge scroll */
+  object-fit: contain;
+  border-radius: 10px; /* optional styling */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Answer cards: touch-friendly sizes and grid layout */
+.answers-grid { display:flex; flex-wrap:wrap; gap:10px; justify-content:center; }
+.answer-wrapper { width: calc(50% - 12px); max-width:220px; text-align:center; }
+@media (min-width: 900px) { .answer-wrapper { width: calc(33.333% - 12px); } }
+@media (max-width: 420px) { .answer-wrapper { width: 100%; } }
+
+/* Buttons: larger tap area and no accidental double-tap zoom on iOS */
+.large-rectangular {
+  padding: 12px 14px;
+  min-height: 44px;
+  font-size: 16px;
+  border-radius: 10px;
+  touch-action: manipulation; /* better responsiveness on mobile */
+}
+
+/* Result overlay/card: keep it centered and responsive */
+#result {
+  padding: 12px;
+  background-color: #be9631b2;
+  display: none;
+  width: 90%;
+  max-width: 420px;
+  border-radius: 12px;
+  margin: 12px auto;
+}
+
+/* small helpers so icons/images don't cause layout shift when missing */
+.answer-thumb-img { display:block; max-width:120px; width:100%; height:auto; border-radius:8px; }
