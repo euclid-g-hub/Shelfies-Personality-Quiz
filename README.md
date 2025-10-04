@@ -1,8 +1,8 @@
 # Shelfies Personality Quiz
 Fun personality quiz based on groceries!
 
-Art and Design made by Chelian Sandoval.
-Current Link: 
+Art and Design made by Chelian Sandoval. <br>
+Current Link: https://euclid-g-hub.github.io/Shelfies-Personality-Quiz/
 
 Copyright &copy; 2025 Chelian Sandoval
 All Rights Reserved.
